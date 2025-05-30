@@ -18,3 +18,17 @@ Chatting Application/
 ├── icons/
 ├── build.xml
 ├── manifest.mf
+
+
+## 📌 Features
+- 🧑‍💻 Simple client-server architecture
+
+- 🔁 Real-time communication
+
+- 🎯 Uses Java Sockets
+
+- 🧵 Handles concurrency using multithreading
+
+- 🖥️ GUI (if present in Client.java) using Java Swing
+
+- 🛠️ NetBeans-compatible project setup
